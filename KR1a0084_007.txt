@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易精蘊大義
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:57:00.625889
+#+PROPERTY: ID KR1a0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七 
 <pb:KR1a0084_WYG_007-1a>¶
 欽定四庫全書¶
 　易精藴大義卷七　　　　　元　解蒙　撰¶
@@ -549,4 +551,3 @@
 　常六五謙遜以守常唯六三上六二爻失常為不善¶
 　　蒙謂以隂柔居上而无應乃婦女之无終者也故¶
 　　其占如此¶
-

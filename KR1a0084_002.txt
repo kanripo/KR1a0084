@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易精蘊大義
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:57:00.498926
+#+PROPERTY: ID KR1a0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二 
 <pb:KR1a0084_WYG_002-1a>¶
 欽定四庫全書¶
 　易精藴大義卷二　　　　　元　解蒙　撰¶
@@ -622,4 +624,3 @@
 　先儒曰履六爻以用柔為吉吉事有祥祥生於所履¶
 　視我所履則可考而知矣¶
 　　蒙謂人之所行慎始而善終非攸好徳者不能也¶
-

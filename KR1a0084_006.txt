@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易精蘊大義
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:57:00.595127
+#+PROPERTY: ID KR1a0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0084_WYG_006-1a>¶
 欽定四庫全書¶
 　易精藴大義卷六　　　　　元　解蒙　撰¶
@@ -607,4 +609,3 @@
 　忌憚者也¶
 <pb:KR1a0084_WYG_006-34b>¶
 　　蒙謂處困極之際而能動補過之心斯出于困矣¶
-

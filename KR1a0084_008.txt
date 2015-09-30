@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易精蘊大義
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:57:00.649464
+#+PROPERTY: ID KR1a0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0084_WYG_008-1a>¶
 欽定四庫全書¶
 　易精蕴大義卷八　　　　　元　解蒙　撰¶
@@ -671,6 +673,7 @@
 <pb:KR1a0084_WYG_008-38a>¶
 　　蒙謂有可濟之才而无得致之位則為自信自樂¶
 　　而已然從欲而不反則不可也故聖人深戒之¶
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0084_WYG_008-39a>¶
 欽定四庫全書¶
 　易精藴大義卷九　　　　　元　解蒙　撰¶
@@ -1754,4 +1757,3 @@
 <pb:KR1a0084_WYG_008-99a>¶
 　　　言而信之者不能也一節密似一節至此得意¶
 　　　忘象易與聖人一也¶
-
